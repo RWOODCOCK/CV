@@ -1,0 +1,18 @@
+
+body {
+  background-color: #eaf6f6;
+  font-family: "calibri";
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #66bfbf;
+  border-width: 10px;
+  width: 10%
+}
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
